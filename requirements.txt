@@ -1,0 +1,27 @@
+# LLM & Agent Framework
+langchain==0.1.0
+langchain-community==0.0.13
+langgraph==0.0.20
+langchain-anthropic==0.1.1
+
+# Local LLM
+ollama==0.1.6
+
+# Vector Database
+weaviate-client==3.26.2
+
+# Structured Query
+duckdb
+pandas
+
+# Embeddings
+sentence-transformers
+torch==2.1.2
+
+# UI
+streamlit==1.29.0
+plotly==5.18.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.3
